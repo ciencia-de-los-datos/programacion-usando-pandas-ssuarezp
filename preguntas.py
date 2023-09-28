@@ -22,7 +22,7 @@ def pregunta_01():
     40
 
     """
-    return lent(tb10)
+    return len(tb10)
 
 
 def pregunta_02():
