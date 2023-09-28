@@ -22,7 +22,8 @@ def pregunta_01():
     40
 
     """
-    return len(tb10)
+    filas=len(tb10)
+    return filas
 
 
 def pregunta_02():
